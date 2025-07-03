@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import About from './../../../frontend/src/pages/About';
 import { useContext } from 'react';
 import { AdminContext } from '../context/AdminContext';
 import axios from 'axios';
